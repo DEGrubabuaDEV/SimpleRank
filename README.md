@@ -1,5 +1,5 @@
 # SimpleRank  
-A Minecraft spigot plugin that gives you a rank plugin with customisable permissions.
+A Minecraft spigot 1.20 plugin that gives you a rank plugin with customisable permissions.
 
 Important foreword:
 All ranks are saved on the player's UUID. In case of a name change the player keeps his rank.
