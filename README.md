@@ -13,11 +13,14 @@ Use **/rank create [rank] [priority]** to create a rank. If you want to create a
 
 Use **/rank give [player]** to give a player a rank.
 
-Use **/rank demote [player]** to remove the role from a player. Important! This command only removes the rank from the current rank. Not from the tab. This command can remove all permissions from a player in the event of griefing
+Use **/rank demote [player]** to remove the role from a player. 
 
 Use **/rank list** to show a list with all created ranks.
 
 Use **/rank delete [rank]** to delete a rank.
+
+Use **/rank setstandard [rank]** to set a rank as standard rank. If a player has no rank (due to /rank demote or first join) he will get the set standard rank.
+
 
 Use **/rank givepermission [rank] [permission]** to give a rank permissions. You have the choice of build, kick, ban and administration permissions. The administration permission gives you all the other permissions plus the ability to manage the ranks.
 
