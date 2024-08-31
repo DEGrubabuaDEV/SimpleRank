@@ -1,0 +1,23 @@
+name: SimpleRank
+version: '${project.version}'
+main: de.grubabua.simplerank.SimpleRank
+api-version: '1.20'
+authors: [grubabua]
+website: https://github.com/DEGrubabuaDEV
+
+commands:
+  rank:
+    description: rank administration
+    aliases:
+  currentrank:
+    description: shows your current rang
+    aliases:
+  ban:
+    description: Ban players
+    aliases:
+  kick:
+    description: Kick players
+    aliases:
+  unban:
+    description: Unban player
+    aliases:
